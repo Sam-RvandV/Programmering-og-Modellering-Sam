@@ -1,1 +1,1 @@
-print('dette er en kul test av githubbbbbb')
+print('dette er en kul test av github')
